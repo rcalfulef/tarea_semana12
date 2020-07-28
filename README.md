@@ -1,9 +1,9 @@
 # tarea_semana12
 
 Requisitos:
-Java jdk 11
-Eclipse
-MoreUnit
+- Java jdk 11
+- Eclipse
+- MoreUnit
 
 Para probar el codigo:
 1. Clonar el repositorio.
