@@ -1,4 +1,4 @@
-# tarea_semana12
+# Tarea Semana 12 Junit
 
 Requisitos:
 - Java jdk 11
