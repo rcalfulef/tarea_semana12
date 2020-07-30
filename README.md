@@ -4,6 +4,7 @@ Requisitos:
 - Java jdk 11
 - Eclipse
 - MoreUnit
+- jUnit 5
 
 Para probar el codigo:
 1. Clonar el repositorio.
